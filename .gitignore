@@ -1,0 +1,6 @@
+*~
+bspapprox-test
+*.o
+*.png
+bezier-extractions.*
+reduction.*
